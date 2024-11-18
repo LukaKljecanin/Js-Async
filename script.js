@@ -3,6 +3,7 @@
 const btn = document.querySelector('.btn-country');
 const countriesContainer = document.querySelector('.countries');
 
+const y = null;
 ///////////////////////////////////////
 // const getCuntryData = function (country) {
 //   // QUESTO E UN VECCHIO TIPO DI CHIAMATA AD HTTP.
